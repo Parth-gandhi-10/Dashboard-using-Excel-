@@ -19,5 +19,4 @@ Credits
 •	Data Source: Kaggle 
 •	Developed by: Parth Gandhi
 
-Links:
-<a href="https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020" >
+Links: <a href="https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020" >
